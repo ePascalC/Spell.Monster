@@ -74,6 +74,13 @@ function get_italian( $s, $prefix, $separator, $suffix ) {
         '_' => 'Underscore',
         '%' => 'Percent Sign',
         '^' => 'Caret',
+        'é' => 'e accute',
+        'è' => 'e grave',
+        'ë' => 'e diaeresis',
+        'ê' => 'e circumflex',
+        'õ' => 'o tilde',
+        'ø' => 'o stroke',
+
 */
         );
 
